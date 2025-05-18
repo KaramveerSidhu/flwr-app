@@ -30,3 +30,10 @@ You can run Flower on Docker too! Check out the [Flower with Docker](https://flo
 - Join the Flower community!
   - [Flower Slack](https://flower.ai/join-slack/)
   - [Flower Discuss](https://discuss.flower.ai/)
+ 
+
+![image](https://github.com/user-attachments/assets/c6308a96-1798-4684-9c1b-c0587ed51d50)
+
+![image](https://github.com/user-attachments/assets/305feb3b-b443-4f9e-86c6-0071a39b27cf)
+
+
